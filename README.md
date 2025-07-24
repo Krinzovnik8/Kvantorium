@@ -1,0 +1,3 @@
+The radio transmitters consist of an Arduino Nano with an NRF24L01, and the master device consists of a Raspberry with an arduino nano connected to it with the same transmitter. 
+Scripts from the clean, master and slave folders for the same arduino nano. The home folder contains media files, the rest are scripts needed to work on raspberry. You need to run it main_bot.py before that, by inserting the secret API keys of the telegram and Yandex models. 
+All the functionality is clear when launching the bot: Hardware configuration, Receiving readings, Administration, Multimedia, Scripting, and so on.
